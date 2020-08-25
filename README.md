@@ -575,10 +575,10 @@ Objects
 :icecream:
 :ice_cream:
 :shaved_ice:
-:birthday:
-:cake:
-:cookie:
-:chocolate_bar:
+:birthday
+:cake
+:cookie
+:chocolate_bar
 :candy:
 :lollipop:
 :honey_pot:
